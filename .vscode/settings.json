@@ -1,0 +1,16 @@
+{
+	"C_Cpp.errorSquiggles": "Disabled",
+	"files.associations": {
+		"*.js": "javascriptreact",
+		"array": "cpp",
+		"string_view": "cpp",
+		"initializer_list": "cpp",
+		"utility": "cpp",
+		"*.tcc": "cpp",
+		"memory": "cpp",
+		"istream": "cpp",
+		"sstream": "cpp",
+		"streambuf": "cpp",
+		"typeinfo": "cpp"
+	}
+}
